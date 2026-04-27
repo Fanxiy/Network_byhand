@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.14)  27 APR 2026 18:54
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2026.1.14)  27 APR 2026 19:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1285,7 +1285,10 @@ File: ../results/misclassified_samples.png Graphic file (type bmp)
 
 Underfull \vbox (badness 1509) has occurred while \output is active []
 
- [10] [11] [12] (./课程报告.aux)
+ [10]
+Underfull \vbox (badness 6268) has occurred while \output is active []
+
+ [11] [12] (./课程报告.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/07/14>
@@ -1294,19 +1297,13 @@ L3 programming layer <2022/07/14>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `课程报告.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `课程报告.out':
-(rerunfilecheck)             Before: C779EB5A7AF0D9F813AA4F85A6D26FA3;5110
-(rerunfilecheck)             After:  5D820403FADDCDFA92B90488EE096220;5124.
+Package rerunfilecheck Info: File `课程报告.out' has not changed.
+(rerunfilecheck)             Checksum: 5D820403FADDCDFA92B90488EE096220;5124.
  ) 
 Here is how much of TeX's memory you used:
  20221 strings out of 468179
  422494 string characters out of 5436884
- 977417 words of memory out of 5000000
+ 977427 words of memory out of 5000000
  48606 multiletter control sequences out of 15000+600000
  635976 words of font info for 109 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

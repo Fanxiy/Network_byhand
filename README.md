@@ -91,16 +91,16 @@
 
 - **损失函数(loss)**: 交叉熵(cross_entropy)
 - **优化器(optimizer)**: SGD
-- **学习率(learning_rate)**: 0.01
+- **学习率(learning_rate)**: 0.1
 - **动量系数(momentum)**: 0.9
-- **权重衰减(weight_decay)**: 0.0001 (L2正则化系数)
-- **批量大小(batch_size)**: 256
+- **权重衰减(weight_decay)**: 0.0 (L2正则化系数)
+- **批量大小(batch_size)**: 32
 - **训练轮数(epochs)**: 50
 
 #### 3.2.3 学习率调度
 
 - **调度器类型(scheduler)**: step (步长衰减)
-- **调度器参数(scheduler_params)**: 每10个epoch调整一次学习率，衰减因子为0.1
+- **调度器参数(scheduler_params)**: 每10个epoch调整一次学习率，衰减因子为0.5
 
 ### 3.3 激活函数
 
@@ -119,11 +119,11 @@ $L = -\sum_{i} y_{true,i} \log(y_{pred,i})$
 
 使用带动量和L2正则化的随机梯度下降（SGD）优化器：
 
-- 梯度计算：$\nabla L(\theta) = \nabla L_{loss}(\theta) + \lambda \theta$
-- 速度更新：$v_t = \gamma v_{t-1} + \eta \nabla L(\theta)$
-- 参数更新：$\theta = \theta - v_t$
+- 梯度计算：$$\nabla L(\theta) = \nabla L_{\text{loss}}(\theta) + \lambda \theta$$
+- 速度更新：$$v_t = \gamma v_{t-1} + \eta \nabla L(\theta)$$
+- 参数更新：$$\theta = \theta - v_t$$
 
-其中，$\gamma$是动量系数，$\eta$是学习率，$\lambda$是L2正则化系数，$\nabla L(\theta)$是损失函数关于参数$\theta$的梯度。
+其中，$\gamma$ 是动量系数，$\eta$ 是学习率，$\lambda$ 是 L2 正则化系数，$\nabla L(\theta)$ 是损失函数关于参数 $\theta$ 的梯度。
 
 ### 3.6 参数初始化
 
