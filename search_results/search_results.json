@@ -1,0 +1,1649 @@
+{
+  "results": [
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4839810924369748,
+      "test_acc": 0.48018518518518516,
+      "training_time": 72.61334753036499
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.41787027310924374,
+      "test_acc": 0.422777777777778,
+      "training_time": 81.24191427230835
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.451483718487395,
+      "test_acc": 0.45018518518518524,
+      "training_time": 82.23199963569641
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.5473345588235294,
+      "test_acc": 0.5364814814814813,
+      "training_time": 76.62186527252197
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3794642857142857,
+      "test_acc": 0.3905555555555555,
+      "training_time": 82.49905395507812
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4910714285714286,
+      "test_acc": 0.48944444444444435,
+      "training_time": 97.0035834312439
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.34585084033613445,
+      "test_acc": 0.36092592592592593,
+      "training_time": 78.61708498001099
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3679096638655462,
+      "test_acc": 0.3694444444444446,
+      "training_time": 84.59280443191528
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.37119222689075626,
+      "test_acc": 0.3672222222222223,
+      "training_time": 87.4566559791565
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4731486344537816,
+      "test_acc": 0.472037037037037,
+      "training_time": 76.81385350227356
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.39298844537815125,
+      "test_acc": 0.39796296296296296,
+      "training_time": 85.0118772983551
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.45470063025210083,
+      "test_acc": 0.4640740740740742,
+      "training_time": 98.19587445259094
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4714417016806723,
+      "test_acc": 0.475,
+      "training_time": 87.17319536209106
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.40513392857142855,
+      "test_acc": 0.41370370370370374,
+      "training_time": 104.2748110294342
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.45102415966386555,
+      "test_acc": 0.4592592592592592,
+      "training_time": 86.54911804199219
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.5472032563025211,
+      "test_acc": 0.5548148148148146,
+      "training_time": 79.08735823631287
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.38130252100840334,
+      "test_acc": 0.3977777777777778,
+      "training_time": 84.25961399078369
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4487920168067227,
+      "test_acc": 0.4688888888888889,
+      "training_time": 81.98232936859131
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3720456932773109,
+      "test_acc": 0.3764814814814815,
+      "training_time": 73.86590003967285
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3684348739495798,
+      "test_acc": 0.3685185185185185,
+      "training_time": 82.06630420684814
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3457195378151261,
+      "test_acc": 0.35888888888888887,
+      "training_time": 81.56628108024597
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4569984243697479,
+      "test_acc": 0.47537037037037044,
+      "training_time": 73.97632789611816
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4195772058823529,
+      "test_acc": 0.4207407407407408,
+      "training_time": 86.79424738883972
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4482668067226891,
+      "test_acc": 0.4596296296296296,
+      "training_time": 89.31662678718567
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.47025997899159666,
+      "test_acc": 0.47425925925925927,
+      "training_time": 75.82538866996765
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3984375,
+      "test_acc": 0.40499999999999997,
+      "training_time": 83.93076753616333
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.48148634453781514,
+      "test_acc": 0.48740740740740746,
+      "training_time": 82.30360698699951
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.5448398109243698,
+      "test_acc": 0.5546296296296296,
+      "training_time": 82.38423252105713
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3866859243697479,
+      "test_acc": 0.39425925925925925,
+      "training_time": 88.64571809768677
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4832589285714286,
+      "test_acc": 0.4824074074074074,
+      "training_time": 79.23115396499634
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.35996586134453784,
+      "test_acc": 0.36166666666666675,
+      "training_time": 72.02761316299438
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.38918067226890757,
+      "test_acc": 0.3846296296296297,
+      "training_time": 79.39413332939148
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3717830882352941,
+      "test_acc": 0.3714814814814815,
+      "training_time": 79.96107935905457
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4911370798319328,
+      "test_acc": 0.48388888888888887,
+      "training_time": 71.8170518875122
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3943014705882353,
+      "test_acc": 0.40296296296296313,
+      "training_time": 80.0667507648468
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.47472426470588236,
+      "test_acc": 0.47888888888888886,
+      "training_time": 79.65427279472351
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.45443802521008403,
+      "test_acc": 0.46833333333333327,
+      "training_time": 74.35867810249329
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.40342699579831937,
+      "test_acc": 0.4261111111111112,
+      "training_time": 81.39640951156616
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4654017857142857,
+      "test_acc": 0.4701851851851852,
+      "training_time": 82.84258842468262
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.5660451680672269,
+      "test_acc": 0.5590740740740742,
+      "training_time": 76.3042778968811
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.40513392857142855,
+      "test_acc": 0.41425925925925927,
+      "training_time": 80.57887172698975
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4956013655462184,
+      "test_acc": 0.495925925925926,
+      "training_time": 82.09840750694275
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.34289653361344535,
+      "test_acc": 0.36185185185185187,
+      "training_time": 80.25149655342102
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3651523109243697,
+      "test_acc": 0.3661111111111112,
+      "training_time": 93.31619644165039
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.36081932773109243,
+      "test_acc": 0.36259259259259263,
+      "training_time": 88.74935269355774
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4573266806722689,
+      "test_acc": 0.4625925925925924,
+      "training_time": 78.20752096176147
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.405921743697479,
+      "test_acc": 0.4107407407407408,
+      "training_time": 81.43986654281616
+    },
+    {
+      "config": {
+        "hidden_size1": 128,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.468093487394958,
+      "test_acc": 0.4712962962962962,
+      "training_time": 81.47663640975952
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.48772321428571425,
+      "test_acc": 0.4737037037037036,
+      "training_time": 119.07053232192993
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.41714810924369744,
+      "test_acc": 0.4242592592592593,
+      "training_time": 130.6523358821869
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4785976890756302,
+      "test_acc": 0.4842592592592594,
+      "training_time": 130.51403045654297
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.5529149159663865,
+      "test_acc": 0.557222222222222,
+      "training_time": 115.38125085830688
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3605567226890756,
+      "test_acc": 0.3700000000000001,
+      "training_time": 133.2007110118866
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4776129201680672,
+      "test_acc": 0.48407407407407393,
+      "training_time": 132.45932960510254
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.38504464285714285,
+      "test_acc": 0.3946296296296297,
+      "training_time": 115.90535712242126
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3426995798319328,
+      "test_acc": 0.3501851851851851,
+      "training_time": 167.05171537399292
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3697478991596639,
+      "test_acc": 0.3753703703703703,
+      "training_time": 157.0246832370758
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.49304096638655465,
+      "test_acc": 0.4783333333333334,
+      "training_time": 132.51287579536438
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4067752100840336,
+      "test_acc": 0.4214814814814815,
+      "training_time": 156.1064441204071
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4648765756302521,
+      "test_acc": 0.4714814814814815,
+      "training_time": 159.06188416481018
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4865414915966387,
+      "test_acc": 0.4898148148148148,
+      "training_time": 126.3030297756195
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4189863445378151,
+      "test_acc": 0.4190740740740741,
+      "training_time": 156.7516632080078
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4717699579831933,
+      "test_acc": 0.48444444444444446,
+      "training_time": 146.7009301185608
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.5664390756302522,
+      "test_acc": 0.562037037037037,
+      "training_time": 130.8276128768921
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3894432773109244,
+      "test_acc": 0.3977777777777778,
+      "training_time": 150.22099256515503
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4764968487394958,
+      "test_acc": 0.487037037037037,
+      "training_time": 155.48562264442444
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.36068802521008403,
+      "test_acc": 0.36444444444444435,
+      "training_time": 127.90354061126709
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3728335084033614,
+      "test_acc": 0.37703703703703706,
+      "training_time": 146.5034623146057
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3770351890756303,
+      "test_acc": 0.378888888888889,
+      "training_time": 157.42639136314392
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.48030462184873945,
+      "test_acc": 0.4812962962962964,
+      "training_time": 131.42489862442017
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4120929621848739,
+      "test_acc": 0.4246296296296297,
+      "training_time": 155.10240626335144
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 64,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.47150735294117646,
+      "test_acc": 0.47648148148148134,
+      "training_time": 149.07124209403992
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4896271008403361,
+      "test_acc": 0.49148148148148146,
+      "training_time": 129.4531331062317
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.39797794117647056,
+      "test_acc": 0.4183333333333333,
+      "training_time": 140.93702578544617
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4896927521008404,
+      "test_acc": 0.4951851851851852,
+      "training_time": 149.5390977859497
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.5617778361344538,
+      "test_acc": 0.5583333333333332,
+      "training_time": 127.89770579338074
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.36186974789915966,
+      "test_acc": 0.37296296296296305,
+      "training_time": 146.81669402122498
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.48982405462184875,
+      "test_acc": 0.502037037037037,
+      "training_time": 148.56071639060974
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3707983193277311,
+      "test_acc": 0.369074074074074,
+      "training_time": 117.55475759506226
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.36863182773109243,
+      "test_acc": 0.37240740740740735,
+      "training_time": 135.3831708431244
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.38392857142857145,
+      "test_acc": 0.37981481481481505,
+      "training_time": 133.06368494033813
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4844406512605042,
+      "test_acc": 0.4831481481481481,
+      "training_time": 116.99378061294556
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4185924369747899,
+      "test_acc": 0.42111111111111127,
+      "training_time": 131.70154070854187
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "relu",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4873949579831933,
+      "test_acc": 0.4870370370370371,
+      "training_time": 143.5655436515808
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4952731092436975,
+      "test_acc": 0.4944444444444446,
+      "training_time": 126.75058364868164
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4182641806722689,
+      "test_acc": 0.4348148148148149,
+      "training_time": 142.2772719860077
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4796481092436975,
+      "test_acc": 0.4733333333333333,
+      "training_time": 154.92034316062927
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.5727415966386554,
+      "test_acc": 0.5712962962962964,
+      "training_time": 128.95394158363342
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3985031512605042,
+      "test_acc": 0.40425925925925943,
+      "training_time": 148.53379249572754
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.1,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4919905462184874,
+      "test_acc": 0.4905555555555555,
+      "training_time": 145.85045790672302
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3870141806722689,
+      "test_acc": 0.3857407407407408,
+      "training_time": 128.16253185272217
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.3724396008403361,
+      "test_acc": 0.3781481481481482,
+      "training_time": 144.22315764427185
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.0,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.36252626050420167,
+      "test_acc": 0.37481481481481477,
+      "training_time": 134.83135724067688
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.0,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4896927521008404,
+      "test_acc": 0.5012962962962961,
+      "training_time": 120.8597662448883
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.005,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4297531512605042,
+      "test_acc": 0.44092592592592583,
+      "training_time": 134.66378331184387
+    },
+    {
+      "config": {
+        "hidden_size1": 256,
+        "hidden_size2": 128,
+        "hidden_activation": "tanh",
+        "learning_rate": 0.01,
+        "momentum": 0.9,
+        "weight_decay": 0.001,
+        "input_size": 12288,
+        "output_size": 10,
+        "output_activation": "softmax",
+        "loss": "cross_entropy"
+      },
+      "val_acc": 0.4613314075630252,
+      "test_acc": 0.4711111111111112,
+      "training_time": 135.60328364372253
+    }
+  ],
+  "best_config": {
+    "hidden_size1": 256,
+    "hidden_size2": 128,
+    "hidden_activation": "tanh",
+    "learning_rate": 0.1,
+    "momentum": 0.9,
+    "weight_decay": 0.0,
+    "input_size": 12288,
+    "output_size": 10,
+    "output_activation": "softmax",
+    "loss": "cross_entropy"
+  },
+  "best_val_acc": 0.5727415966386554
+}
